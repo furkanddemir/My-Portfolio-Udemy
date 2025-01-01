@@ -22,6 +22,7 @@ Bu projede aşağıdaki teknolojiler ve araçlar kullanılmıştır:
 - **HTML & CSS**  
 - **Bootstrap**  
 - **C#**
+- - **Javascript**
 
 ---
 > **"Her bir eğitim sizi bir basamak, her bir proje de sizi bir kat daha yukarı çıkaracak!"**  
