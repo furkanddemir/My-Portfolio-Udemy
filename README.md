@@ -1,6 +1,6 @@
 # My-Portpolio-Udemy
 
-Bu proje, **Murat Yücedağ**'ın Udemy'deki **"Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-1 ve 'Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-2"** eğitimi kapsamında geliştirilmiş bir kişisel portfolyo uygulamasıdır. Eğitim sürecinde öğrendiğim teknolojileri pratiğe dökerek modern ve dinamik bir uygulama ortaya çıkardım.  
+Bu proje, **Murat Yücedağ** hocamızın Udemy'deki **"Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-1 ve 'Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-2"** eğitimi kapsamında geliştirilmiş bir kişisel portfolyo uygulamasıdır. Eğitim sürecinde öğrendiğim teknolojileri pratiğe dökerek modern ve dinamik bir uygulama ortaya çıkardım.  
 
 ## Özellikler  
 - **Admin Paneli**:  
