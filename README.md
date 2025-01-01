@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2025-01-01 224100](https://github.com/user-attachments/assets/81048935-1e42-4aa1-bf59-14daf4c96503)# My-Portpolio-Udemy
+# My-Portpolio-Udemy
 
 Bu proje, **Murat Yücedağ**'ın Udemy'deki **"Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-1 ve 'Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-2"** eğitimi kapsamında geliştirilmiş bir kişisel portfolyo uygulamasıdır. Eğitim sürecinde öğrendiğim teknolojileri pratiğe dökerek modern ve dinamik bir uygulama ortaya çıkardım.  
 
