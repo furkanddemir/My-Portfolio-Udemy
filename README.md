@@ -24,6 +24,13 @@ Bu projede aşağıdaki teknolojiler ve araçlar kullanılmıştır:
 - **C#**
 
 ---
+> **"Her bir eğitim sizi bir basamak, her bir proje de sizi bir kat daha yukarı çıkaracak!"**  
+> — *Murat Yücedağ*  
+
+
+
+---
+## Bazı Ekran Görüntüleri  
 ![Ekran görüntüsü 2025-01-01 224100](https://github.com/user-attachments/assets/7d459b44-2f7a-4472-bc6a-a9d96f063d72)
 
 
